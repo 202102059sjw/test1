@@ -1,0 +1,7 @@
+total 29
+drwxr-xr-x 1 3500p 197610    0 Jun  6 16:21 ./
+drwxr-xr-x 1 3500p 197610    0 Jun  6 16:21 ../
+drwxr-xr-x 1 3500p 197610    0 Jun  6 16:21 .git/
+-rw-r--r-- 1 3500p 197610 7466 Jun  6 16:10 .gitignore
+-rw-r--r-- 1 3500p 197610    7 Jun  6 16:10 README.md
+-rw-r--r-- 1 3500p 197610    0 Jun  6 16:21 list.txt
